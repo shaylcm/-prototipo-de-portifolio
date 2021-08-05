@@ -33,7 +33,7 @@
     color: white;
 }
 
-h3
+.div2 h3
 {
   margin-top: 60px;
   
@@ -42,7 +42,7 @@ h3
 
 }
 
-.sobre
+.div2 .sobre
 {
   margin-left: 50%;
   font-size: 50px;
