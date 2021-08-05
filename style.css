@@ -169,119 +169,46 @@ i
 
 
 /*------------------RESPONSIVIDADE----------------*/
- @media (max-width:480px )   
+@media (max-width:480px ) 
  {
   
-
-  .nav{
-    display: none;
-  }
-
-  .div1
-  {
-
-    width: 700px;;
-    padding: 20px;
-    padding-top: 300px;
-    padding-bottom: 300px;;
-
-  }
-  .div1 h1 
-  {
-    text-align: center;
-    line-height: 40px;
-    margin-right: 40px;
-
-  }
-  .div1 h2
-  {
-    font-size: 35px;
-  }
-
-  
-  .div2
-  {
-     width: 100%px;
-     text-align: justify;
-     font-size: 30px;
-     padding: 10px;
-     padding-top: 50px;
-     padding-right: 430px;
-     padding-left: 320px;
-     padding-bottom: 100px;
-  }
-  .div2 h2
-  {
-  padding-right: 50px;
-
-  }
-  
-  .div2  .image
-  {
-    display: none;
-  }
-
-
-  .div4
-  {
-    width: 100%;
-    height: 500px;
-  }
-
-  .div3{
-    width: 100%;
-  }
-
-  .imagemc
-  {
-     width: 400px;
-  }
-  .imagemusica
-  {
-    width: 400px;
-    margin-left:10px ;
-    margin-top: 20px;
-  }
-
-  .contato
+.nav
 {
-  text-align: justify;
-  margin-left: 40px;
-
-
- }
-
- .logo
- {
-    list-style: none;
- }
- /*Icones*/
-
-#linkedin
-{
-
-  font-size: 100px;
-  padding-left: 20px;
-  margin-top: 20px;
- 
+  display: none;
 }
 
-#email
+.div1
 {
-  font-size: 100px;
-  padding-left: 29px;
-  margin-top: 20px;
-  
+  width: 100%;
+  padding: 10px;
+}
+.div2
+{
+  width: 100%;
+  padding: 10px;
+}
+.imagemc
+{
+  width: 200px;
+  display: inline-block;
+  padding-left: 50px;;
+
 }
 
-#whats
+.imagemusica
 {
-
-  font-size: 100px;
-  padding-right: 50px;
-  margin-top: 20px;;
-  
+  width: 200px;
+  padding-left: 30px;
+  padding-top: 10px;
 }
 
+.div4
+{
+  text-align: center;
+  width: 100%;
+  padding:5px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
 
 }
